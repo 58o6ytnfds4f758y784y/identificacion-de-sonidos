@@ -1,0 +1,34 @@
+body{
+    background: aquamarine;
+}
+
+.header_div{
+    background: white;
+    color: red;
+}
+
+.header_div p{
+    font-family: sans-serif;
+    color: cadetblue;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.main_div button {
+    font-family: sans-serif;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+
+.copy_right {
+    position: fixed;
+    color: chartreuse;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: black;
+    text-align: center;
+}
